@@ -130,3 +130,6 @@ dmypy.json
 
 # Files to ignore
 data/*
+data/*.txt
+data/*.csv
+
