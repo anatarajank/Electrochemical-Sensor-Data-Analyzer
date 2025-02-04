@@ -93,12 +93,12 @@ The notebooks and the repositories are versioned using [SemVer](http://semver.or
 
 **Differential Pulse Voltammograms with legends**
 
-<img src="https://github.com/anatarajank/Electrochemical-Sensor-Data-Analyzer/blob/main/images/DPV_w_legends.png" alt="Differential Pulse Voltammograms with legends" width="50%" height="auto"> 
+<img src="https://github.com/anatarajank/Electrochemical-Sensor-Data-Analyzer/blob/main/images/DPV_w_legends.png" alt="Differential Pulse Voltammograms with legends" width="75%" height="auto"> 
 
 **Differential Pulse Voltammograms with peaks identified**
 
-![Differential Pulse Voltammograms with peaks identified](https://github.com/anatarajank/Electrochemical-Sensor-Data-Analyzer/blob/main/images/DPV_w_legends_w_peaks.png)
+<img src="https://github.com/anatarajank/Electrochemical-Sensor-Data-Analyzer/blob/main/images/DPV_w_legends_w_peaks.png" alt="Differential Pulse Voltammograms with peaks identified" width="75%" height="auto"> 
 
 **Linear calibration curve**
 
-![Linear calibration curve](https://github.com/anatarajank/Electrochemical-Sensor-Data-Analyzer/blob/main/images/Linear_calibration_plot_HQ.png)
+<img src="https://github.com/anatarajank/Electrochemical-Sensor-Data-Analyzer/blob/main/images/Linear_calibration_plot_HQ.png" alt="Linear calibration curve" width="75%" height="auto">
