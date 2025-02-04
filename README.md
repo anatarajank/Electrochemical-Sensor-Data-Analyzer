@@ -50,6 +50,14 @@ To run this notebook locally, you will need to have the following software insta
 
 Once you have the required software installed, you can download the notebook file and open it in Jupyter Notebook. Then, you can run the cells in the notebook to execute the code.
 
+Before installing the required Python packages you need to create a virtual environment by navigating to the folder where the Jupyter notebook is kept by running the following command in terminal:
+
+```python
+python -m venv myvenv
+```
+
+Replace ~~~myvenv with your preferred name
+
 To install the required Python packages, you can use the following command in your terminal:
 
 ```python
