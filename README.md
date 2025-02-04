@@ -1,25 +1,25 @@
-### **Electrochemical Sensor Data Analyzer**
+## **Electrochemical Sensor Data Analyzer**
 
 ---
 
-#### **Summary**
+### **Summary**
 
 This repository notebook demonstrates a typical workflow for analyzing the Differential Pulse Voltammetry (DPV) experimental data from an **Autolab PGSTAT 302N** to determine the relationship between the concentration of analytes Hydroquinone (HQ) and Catechol (CC) and their corresponding peak currents. It involves data loading, preprocessing, visualization, peak detection, and ultimately the construction of a calibration curve using linear regression to quantify the relationship between analyte concentration and peak current. This information is crucial for determining unknown concentrations of HQ and CC in samples using DPV.
 
 ---
 
-#### **Atribution**
+### **Atribution**
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/anatarajank/Electrochemical-Data-Analyzer">Electrochemical Sensor Data Analyzer</a> &#169; 2019-2025 by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/anatarajank/">Aravindan Natarajan</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 ---
 
-#### **Authors**
+### **Authors**
 - **Aravindan Natarajan**
 
 ---
 
-**Steps Overview**
+### **Steps Overview**
 
 1.  **Data Loading and Preprocessing:**
     -   Imports necessary libraries like pandas, numpy, matplotlib, and seaborn.
@@ -39,7 +39,7 @@ This repository notebook demonstrates a typical workflow for analyzing the Diffe
 
 ---
 
-#### **Getting Started**
+### **Getting Started**
 This notebook can be run either locally or in Google Colab.
 
 **Running Locally**
@@ -74,5 +74,5 @@ The data for this notebook is the experimental data collected by the author and 
 
 ---
 
-#### **Versioning**
+### **Versioning**
 The notebooks and the repositories are versioned using [SemVer](http://semver.org/) for versioning. The current version is 2.0.
