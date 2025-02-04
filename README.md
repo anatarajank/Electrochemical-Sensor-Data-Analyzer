@@ -43,6 +43,7 @@ This repository notebook demonstrates a typical workflow for analyzing the Diffe
 This notebook can be run either locally or in Google Colab.
 
 **Running Locally**
+
 To run this notebook locally, you will need to have the following software installed:
 
 - Python 3.x
@@ -62,16 +63,16 @@ pip install -r requirements.txt
 Please make sure that you are running this command from the directory where the requirements.txt file is placed. Use code with caution.
 
 **Running in Google Colab**
+
 To run this notebook in Google Colab, you will need to have a Google account. Once you have a Google account, you can open the notebook in Google Colab by clicking on the "Open in Colab" badge in the notebook file.
 
 Once the notebook is open in Google Colab, you can run the cells in the notebook to execute the code. Google Colab will automatically install the required Python packages for you.
 
 **Data**
+
 The data for this notebook is the experimental data collected by the author and hence it is copyright protected. They are stored in the data folder. You will need to create this folder for your own experimental data and place it in the same directory as the notebook file for the code to run without any errors.
 
 ---
 
 #### **Versioning**
 The notebooks and the repositories are versioned using [SemVer](http://semver.org/) for versioning. The current version is 2.0.
-
----
