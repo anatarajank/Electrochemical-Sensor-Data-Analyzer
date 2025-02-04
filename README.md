@@ -54,11 +54,15 @@ Once you have the required software installed, you can download the notebook fil
 
 To install the required Python packages, you can use the following command in your terminal:
 
+```python
 pip install numpy pandas scipy seaborn matplotlib stats jupyterlab
+```
 
 Alternatively you can install by running the following command after downloading this repository
 
+```python
 pip install -r requirements.txt
+```
 
 Please make sure that you are running this command from the directory where the requirements.txt file is placed. Use code with caution.
 
