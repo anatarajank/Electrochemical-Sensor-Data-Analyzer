@@ -2,26 +2,24 @@
 
 ---
 
-**Version: 2.0**
+#### **Summary**
 
-**License: CC BY 4.0**
-
-**Author: Aravindan Natarajan**
+This repository notebook demonstrates a typical workflow for analyzing the Differential Pulse Voltammetry (DPV) experimental data from an **Autolab PGSTAT 302N** to determine the relationship between the concentration of analytes Hydroquinone (HQ) and Catechol (CC) and their corresponding peak currents. It involves data loading, preprocessing, visualization, peak detection, and ultimately the construction of a calibration curve using linear regression to quantify the relationship between analyte concentration and peak current. This information is crucial for determining unknown concentrations of HQ and CC in samples using DPV.
 
 ---
 
-
-**Atribution**
+#### **Atribution**
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/anatarajank/Electrochemical-Data-Analyzer">Electrochemical Sensor Data Analyzer</a> &#169; 2019-2025 by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/anatarajank/">Aravindan Natarajan</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 ---
 
-**Overview**
+#### **Authors**
+- **Aravindan Natarajan**
 
-This repository features a notebook that analyzes the Differential Pulse Voltammetry (DPV) experimental data from a Autolab PGSTAT 302N to determine the relationship between the concentration of analytes Hydroquinone (HQ) and Catechol (CC) and their corresponding peak currents.
+---
 
-**Steps:**
+**Steps Overview**
 
 1.  **Data Loading and Preprocessing:**
     -   Imports necessary libraries like pandas, numpy, matplotlib, and seaborn.
@@ -39,6 +37,41 @@ This repository features a notebook that analyzes the Differential Pulse Voltamm
     -   Uses `stats.linregress` to perform linear regression on the concentration and peak current data for both HQ and CC.
     -   Plots the calibration curves using `sns.regplot` with the regression equation and R-squared value displayed in the legend.
 
-**Summary**
+---
 
-The notebook demonstrates a typical workflow for analyzing electrochemical data. It involves data loading, preprocessing, visualization, peak detection, and ultimately the construction of a calibration curve using linear regression to quantify the relationship between analyte concentration and peak current. This information is crucial for determining unknown concentrations of HQ and CC in samples using DPV.
+#### **Getting Started**
+This notebook can be run either locally or in Google Colab.
+
+**Running Locally**
+To run this notebook locally, you will need to have the following software installed:
+
+- Python 3.x
+- Jupyter Notebook
+- The required Python packages: numpy, pandas, scipy, os, seaborn, matplotlib, stats and jupyterlab.
+
+Once you have the required software installed, you can download the notebook file and open it in Jupyter Notebook. Then, you can run the cells in the notebook to execute the code.
+
+To install the required Python packages, you can use the following command in your terminal:
+
+pip install numpy pandas scipy seaborn matplotlib stats jupyterlab
+
+Alternatively you can install by running the following command after downloading this repository
+
+pip install -r requirements.txt
+
+Please make sure that you are running this command from the directory where the requirements.txt file is placed. Use code with caution.
+
+**Running in Google Colab**
+To run this notebook in Google Colab, you will need to have a Google account. Once you have a Google account, you can open the notebook in Google Colab by clicking on the "Open in Colab" badge in the notebook file.
+
+Once the notebook is open in Google Colab, you can run the cells in the notebook to execute the code. Google Colab will automatically install the required Python packages for you.
+
+**Data**
+The data for this notebook is the experimental data collected by the author and hence it is copyright protected. They are stored in the data folder. You will need to create this folder for your own experimental data and place it in the same directory as the notebook file for the code to run without any errors.
+
+---
+
+#### **Versioning**
+The notebooks and the repositories are versioned using [SemVer](http://semver.org/) for versioning. The current version is 2.0.
+
+---
