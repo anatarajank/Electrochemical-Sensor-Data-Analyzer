@@ -93,7 +93,7 @@ The notebooks and the repositories are versioned using [SemVer](http://semver.or
 
 **Differential Pulse Voltammograms with legends**
 
-![Differential Pulse Voltammograms with legends](https://github.com/anatarajank/Electrochemical-Sensor-Data-Analyzer/blob/main/images/DPV_w_legends.png)
+<img src="https://github.com/anatarajank/Electrochemical-Sensor-Data-Analyzer/blob/main/images/DPV_w_legends.png" alt="Differential Pulse Voltammograms with legends" width="50%" height="auto"> 
 
 **Differential Pulse Voltammograms with peaks identified**
 
