@@ -100,4 +100,5 @@ The notebooks and the repositories are versioned using [SemVer](http://semver.or
 ![Differential Pulse Voltammograms with peaks identified](https://github.com/anatarajank/Electrochemical-Sensor-Data-Analyzer/blob/main/images/DPV_w_legends_w_peaks.png)
 
 **Linear calibration curve**
+
 ![Linear calibration curve](https://github.com/anatarajank/Electrochemical-Sensor-Data-Analyzer/blob/main/images/Linear_calibration_plot_HQ.png)
