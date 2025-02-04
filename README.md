@@ -76,7 +76,7 @@ Please make sure that you are running this command from the directory where the 
 
 **Running in Google Colab**
 
-To run this notebook in Google Colab, you will need to have a Google account. Once you have a Google account, you can open the notebook in Google Colab by clicking on the "Open in Colab" badge in the notebook file.
+To run this notebook in [Google Colab](https://colab.research.google.com/), you will need to have a Google account. Once you have a Google account, you can open the notebook in Google Colab by clicking on the "Open in Colab" badge in the notebook file.
 
 Once the notebook is open in Google Colab, you can run the cells in the notebook to execute the code. Google Colab will automatically install the required Python packages for you.
 
