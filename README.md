@@ -56,7 +56,7 @@ Before installing the required Python packages you need to create a virtual envi
 python -m venv myvenv
 ```
 
-Replace ~~~myvenv with your preferred name
+Replace ```myvenv``` with your preferred name
 
 To install the required Python packages, you can use the following command in your terminal:
 
