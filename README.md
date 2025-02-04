@@ -4,6 +4,8 @@
 
 This repository notebook demonstrates a typical workflow for analyzing the Differential Pulse Voltammetry (DPV) experimental data from an **Autolab PGSTAT 302N** to determine the relationship between the concentration of analytes Hydroquinone (HQ) and Catechol (CC) and their corresponding peak currents. It involves data loading, preprocessing, visualization, peak detection, and ultimately the construction of a calibration curve using linear regression to quantify the relationship between analyte concentration and peak current. This information is crucial for determining unknown concentrations of HQ and CC in samples using DPV.
 
+Moreover, this notebook is designed for electrochemists with less technical experience in Python, making it easy to use and implement.
+
 ---
 
 ### **Atribution**
@@ -86,3 +88,6 @@ The data for this notebook is the experimental data collected by the author and 
 
 ### **Versioning**
 The notebooks and the repositories are versioned using [SemVer](http://semver.org/) for versioning. The current version is 2.0.
+
+### **Sample Output**
+
