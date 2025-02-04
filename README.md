@@ -91,3 +91,9 @@ The notebooks and the repositories are versioned using [SemVer](http://semver.or
 
 ### **Sample Output**
 
+**Differential Pulse Voltammograms with legends**
+
+**Differential Pulse Voltammograms with peaks identified**
+
+**Linear calibration curve**
+
