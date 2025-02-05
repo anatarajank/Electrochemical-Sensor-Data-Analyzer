@@ -129,7 +129,4 @@ dmypy.json
 .pyre/
 
 # Files to ignore
-data/*
-data/*.txt
-data/*.csv
 jupyter notebooks/archive/*.ipynb
