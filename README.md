@@ -17,7 +17,9 @@ Moreover, this notebook is designed for electrochemists with less technical expe
 ### **Citation**
 If you use this repository in your work, please cite using the following:
 
-Natarajan, Aravindan, and Preethi Sankaranarayanan. 2025. “A User-friendly Jupyter Notebook for Simplified Differential Pulse Voltammetry Analysis of Dihydroxy Phenols.” ECSarXiv. February 5. [doi:10.1149/osf.io/mgujh_v1] (https://doi.org/10.1149/osf.io/mgujh_v1) ![Static Badge](https://img.shields.io/badge/doi-https%3A%2F%2Fdoi.org%2F10.1149%2Fosf.io%2Fmgujh__v1-blue)
+![Static Badge](https://img.shields.io/badge/doi-https%3A%2F%2Fdoi.org%2F10.1149%2Fosf.io%2Fmgujh__v1-blue)
+
+Natarajan, Aravindan, and Preethi Sankaranarayanan. 2025. “A User-friendly Jupyter Notebook for Simplified Differential Pulse Voltammetry Analysis of Dihydroxy Phenols.” ECSarXiv. February 5. [doi:10.1149/osf.io/mgujh_v1] (https://doi.org/10.1149/osf.io/mgujh_v1)
 
 And please cite this repository using the following:
 [Electrochemical Data Analyzer, Aravindan Natarajan, https://github.com/anatarajank/Electrochemical-Sensor-Data-Analyzer](https://github.com/anatarajank/Electrochemical-Sensor-Data-Analyzer)
