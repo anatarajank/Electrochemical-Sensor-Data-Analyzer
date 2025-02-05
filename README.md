@@ -82,7 +82,7 @@ Once the notebook is open in Google Colab, you can run the cells in the notebook
 
 **Data**
 
-The data for this notebook is the experimental data collected by the author and hence it is copyright protected. They are stored in the data folder. You will need to create this folder for your own experimental data and place it in the same directory as the notebook file for the code to run without any errors.
+The data for this notebook is the experimental data collected by the author and they are stored in the data folder. You will need to create this folder for your own experimental data and place it in the same directory as the notebook file for the code to run without any errors.
 
 ---
 
