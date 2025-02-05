@@ -14,8 +14,16 @@ Moreover, this notebook is designed for electrochemists with less technical expe
 
 ---
 
+### **Citation**
+Please cite this work using the following:
+
+Natarajan, Aravindan, and Preethi Sankaranarayanan. 2025. “A User-friendly Jupyter Notebook for Simplified Differential Pulse Voltammetry Analysis of Dihydroxy Phenols.” ECSarXiv. February 5. [doi:10.1149/osf.io/mgujh_v1] (https://doi.org/10.1149/osf.io/mgujh_v1)
+
+---
+
 ### **Authors**
-- **Aravindan Natarajan**
+- **Aravindan Natarajan** - Corresponding Author
+- **Preethi Sankaranarayanan**
 
 ---
 
