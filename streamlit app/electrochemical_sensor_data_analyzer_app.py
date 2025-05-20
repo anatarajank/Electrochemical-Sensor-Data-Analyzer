@@ -60,6 +60,7 @@ st.title("Electrochemical Sensor Data Analyzer")
 st.markdown("* Please note that this app can currently only process .txt and .csv files for the differential pulse data from a **AUTOLAB 302N** system only. The files should contain the columns 'Potential applied (V)' and 'WE(1).δ.Current (A)'.")
 st.markdown("* The app will analyze, plot the differential pulse voltammograms, and perform peak analysis.")
 st.markdown("* Data files must be named according to the following format, corresponding to concentration units: xx_nM (nanomolar), xx_uM (micromolar), xx_mM (millimolar), and xx_M (molar).")
+
 # File Uploader
 uploaded_files = st.file_uploader("Upload your .txt or .csv files", accept_multiple_files=True, type=['txt', 'csv'])
 
